@@ -28,7 +28,7 @@ THE SOFTWARE.
   <parent>
     <groupId>org.hudsonci.libs</groupId>
     <artifactId>hudson-gwt-parent</artifactId>
-    <version>2.2.0-SNAPSHOT</version>
+    <version>2.2.0</version>
   </parent>
 
   <groupId>org.hudsonci.libs</groupId>
