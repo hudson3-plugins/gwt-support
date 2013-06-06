@@ -26,13 +26,14 @@ THE SOFTWARE.
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.jvnet.hudson.main</groupId>
-    <artifactId>hudson-gwt</artifactId>
+    <groupId>org.hudsonci.libs</groupId>
+    <artifactId>hudson-gwt-parent</artifactId>
     <version>2.2.0-SNAPSHOT</version>
   </parent>
 
+  <groupId>org.hudsonci.libs</groupId>
   <artifactId>hudson-gwt-test-support</artifactId>
-  <name>Hudson :: GWT :: Test Support</name>
+  <name>Hudson GWT Test Support</name>
 
   <dependencies>
     <dependency>
